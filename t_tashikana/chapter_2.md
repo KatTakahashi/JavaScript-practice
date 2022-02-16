@@ -42,7 +42,7 @@
 
 #### location オブジェクト
 
-URL バー
+- URL バー
 
 #### document オブジェクト
 
