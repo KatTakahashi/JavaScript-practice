@@ -89,3 +89,11 @@ if(answer === number){}
 - a <= b：a が b 以下であれば true
 - a > b：a が b より大きければ true
 - a >= b：a が b 以上であれば true
+
+---
+
+#### 論理演算子
+
+- 条件 1 && 条件 2：条件 1 と 条件 2 のどちらも true であれば true
+- 条件 1 || 条件 2：条件 1 か 条件 2 のどちらかが true であれば true
+- !条件 1：条件 1 が false であれば true
