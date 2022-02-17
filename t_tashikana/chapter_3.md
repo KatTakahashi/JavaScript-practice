@@ -62,3 +62,30 @@ const 定数名 = 代入するデータ;
 
 - 条件を追加するためには else if を追加する
 - true のときだけ何かの処理をし、false の場合に何も処理しないのであれば else 以降を省略可
+
+---
+
+#### 文字列を整数に変換
+
+parseInt(変換したい文字列);
+
+---
+
+#### 3 種類の条件式
+
+if(answer === number){}
+
+- 定数 answer が定数 number のデータと同じであれば true
+  else if(answer < number){}
+- 定数 answer が定数 number の値よりちいさければ true
+  else if(answer > number){}
+- 定数 answer が定数 number の値より大きければ true
+
+#### 比較演算子一覧
+
+- a === b：a と b が同じであれば true
+- a !== b：a と b が同じでなければ true
+- a < b：a が b より小さければ true
+- a <= b：a が b 以下であれば true
+- a > b：a が b より大きければ true
+- a >= b：a が b 以上であれば true
